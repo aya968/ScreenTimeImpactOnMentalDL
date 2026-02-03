@@ -48,9 +48,13 @@ Stress Model Accuracy: 76%
 Mood Model Accuracy: 75%
 
 project-name/
+
 │── notebooks/        # exploratory analysis
+
 │── models/           # saved models
+
 │── README.md
+
 │── requirements.txt
 
 📄 License
