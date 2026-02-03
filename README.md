@@ -21,11 +21,17 @@ The data was split into Train/Test (80/20) with One-Hot Encoding for categorical
 
 🏗️ System Architecture
 Input: screen_time_hours, hours_on_TikTok, sleep_hours
+
 ↓
+
 Preprocessing: feature selection, class encoding
+
 ↓
+
 Neural Network Model
+
 ↓
+
 Output: stress_class / mood_class
 
 Stress Model: 7 Dense Layers + ReLU + Softmax Output
